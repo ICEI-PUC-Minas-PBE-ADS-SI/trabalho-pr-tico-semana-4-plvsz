@@ -13,3 +13,10 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 - Proposta de projeto escolhida:Diretório de Receitas
 - Breve descrição sobre seu projeto:Desenvolvi um site de receitas com diversas opções fáceis, deliciosas, organizadas por categoria, facilitando a busca e navegação.
 
+## Print da versão responsiva com CSS puro
+
+![Versão responsiva com CSS puro](CapturaDoSiteCSSPuro.jpg)
+
+## Print da versão responsiva com Bootstrap
+
+![Versão responsiva com Bootstrap](CapturaDoSiteBootstrap.jpg)
