@@ -8,14 +8,14 @@ Nessa atividade,vamos evoluir o projeto para que a home-page funcione bem tanto 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome:Pedro Henrique Alves Emerick
+- Matricula:881127
+- Proposta de projeto escolhida:Diretório de Receitas
+- Breve descrição sobre seu projeto:Desenvolvi um site de receitas com diversas opções fáceis, deliciosas, organizadas por categoria, facilitando a busca e navegação.
 
 ## Print da versão responsiva com CSS puro
 
-<<  COLOQUE A IMAGEM AQUI >>
+![Versão responsiva com CSS puro](CapturaDoSiteCSSPuro.jpg)
 
 ## Print da versão responsiva com Bootstrap
 
